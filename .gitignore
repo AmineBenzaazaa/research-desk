@@ -1,0 +1,21 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.DS_Store
+node_modules/
+dist/
+
+# secrets (keep the template)
+.env
+*.env
+.env.*
+!.env.example
+
+# runtime caches (LLM responses, PDF extractions) - not needed by tests or the eval gate
+backend/data/cache/
+
+# model caches, if pointed inside the repo
+.cache/
+fastembed_cache/
+eval-report.*
+eval-output.txt

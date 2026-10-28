@@ -1,0 +1,7 @@
+report_id,title,published,regions,supersedes,n_metrics,injection_found
+AR-MA-0412,Morocco E-commerce & Cash-on-Delivery Market 2026,2026-03-14,Morocco,,4,False
+AR-GCC-0388,GCC Electric Vehicle Charging Infrastructure Outlook 2026,2026-02-02,"Saudi Arabia, UAE, Qatar, Kuwait, Oman, Bahrain",,5,False
+AR-SA-0301,Saudi Arabia Digital Health Market Brief — 2025 Edition,2025-06-10,Saudi Arabia,,4,False
+AR-SA-0455,Saudi Arabia Digital Health Market — 2026 Update,2026-04-20,Saudi Arabia,AR-SA-0301,5,False
+AR-NA-0420,Green Hydrogen in North Africa: Project Pipeline 2026,2026-03-05,"Morocco, Egypt, Mauritania, Tunisia, Algeria",,6,False
+AR-ME-0471,MENA Fintech Funding Snapshot — Q3 2026,2026-10-08,MENA,,5,True

@@ -1,0 +1,23 @@
+# Direct dependencies of backend/ (pinned to the versions in backend/.venv).
+# No torch: embeddings + cross-encoder reranker run on ONNX via fastembed.
+
+# API
+fastapi==0.162.0
+uvicorn==0.54.0
+python-multipart==0.0.32   # FastAPI File/UploadFile (PDF upload)
+pydantic==2.14.1
+python-dotenv==1.2.4
+
+# Retrieval + data
+fastembed==0.9.1
+numpy==2.5.4
+pandas==3.1.0
+pypdf==6.21.3
+
+# LLM + tracing
+google-genai==2.33.0
+langfuse==5.0.4
+opentelemetry-api==1.45.1
+
+# Tests
+pytest==9.1.1

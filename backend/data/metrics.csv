@@ -1,0 +1,30 @@
+report_id,name,value,unit,year,is_forecast,source_quote
+AR-MA-0412,GMV,31.4,MAD bn,2025.0,False,"Moroccan B2C e-commerce reached an estimated MAD 31.4 billion in gross merchandise value (GMV) in 2025, up 22% year on year."
+AR-MA-0412,GMV,38.6,MAD bn,2026.0,True,We project MAD 38.6 billion in 2026.
+AR-MA-0412,COD share,64.0,%,2025.0,False,"Cash on delivery (COD) remains dominant at 64% of online orders in 2025, down from 71% in 2023, as card and wallet adoption grows in Casablanca and Rabat."
+AR-MA-0412,return-to-origin rate,27.0,%,,False,"The single biggest cost driver for COD merchants is the return-to-origin (RTO) rate, which averaged 27% nationally and up to 38% for first-time buyers outside the top five cities."
+AR-GCC-0388,Public EV charging points,9850.0,count,2025.0,False,"Public EV charging points across the GCC reached 9,850 at the end of 2025."
+AR-GCC-0388,UAE public chargers share,58.0,%,2025.0,False,The UAE accounts for 58% of all public chargers.
+AR-GCC-0388,Public chargers forecast,26000.0,count,2028.0,True,"We forecast 26,000 public chargers by 2028, driven by Saudi Arabia's EV target of 30% of new cars in Riyadh by 2030 and by fleet electrification (taxis and ride-hailing)."
+AR-GCC-0388,DC fast chargers installed base share,31.0,%,2025.0,False,DC fast chargers (50 kW and above) represent 31% of the installed base but 67% of energy delivered.
+AR-GCC-0388,DC fast chargers energy delivered share,67.0,%,2025.0,False,DC fast chargers (50 kW and above) represent 31% of the installed base but 67% of energy delivered.
+AR-SA-0301,digital health market value,1.9,USD bn,2024.0,False,The Saudi digital health market was valued at USD 1.9 billion in 2024.
+AR-SA-0301,digital health market value forecast,2.4,USD bn,2025.0,True,We forecast USD 2.4 billion for 2025.
+AR-SA-0301,telemedicine consultations,21.0,million,2024.0,False,Telemedicine consultations reached 21 million in 2024.
+AR-SA-0301,public hospitals with fully integrated electronic health record,38.0,%,2024.0,False,About 38% of public hospitals had a fully integrated electronic health record (EHR).
+AR-SA-0455,Actual 2025 market value,2.7,USD b,2025.0,False,"Actual 2025 market value came in at USD 2.7 billion, above our 2025 forecast of USD 2.4 billion, mainly because AI diagnostics grew 61% instead of the expected 35%."
+AR-SA-0455,Forecast 2025 market value,2.4,USD b,2025.0,True,"Actual 2025 market value came in at USD 2.7 billion, above our 2025 forecast of USD 2.4 billion, mainly because AI diagnostics grew 61% instead of the expected 35%."
+AR-SA-0455,AI diagnostics growth rate,61.0,%,2025.0,False,"Actual 2025 market value came in at USD 2.7 billion, above our 2025 forecast of USD 2.4 billion, mainly because AI diagnostics grew 61% instead of the expected 35%."
+AR-SA-0455,Forecast 2026 market value,3.4,USD b,2026.0,True,We now forecast USD 3.4 billion for 2026.
+AR-SA-0455,Fully integrated EHR coverage in public hospitals,57.0,%,2025.0,False,Fully integrated EHR coverage reached 57% of public hospitals in 2025 (from 38%).
+AR-NA-0420,announced green hydrogen pipeline,58.0,GW,2026.0,False,"North Africa's announced green hydrogen pipeline totals 58 GW of electrolysis capacity across 41 projects, but only 1.2 GW has reached final investment decision (FID)."
+AR-NA-0420,projects in announced green hydrogen pipeline,41.0,count,2026.0,False,"North Africa's announced green hydrogen pipeline totals 58 GW of electrolysis capacity across 41 projects, but only 1.2 GW has reached final investment decision (FID)."
+AR-NA-0420,electrolysis capacity reached FID,1.2,GW,2026.0,False,"North Africa's announced green hydrogen pipeline totals 58 GW of electrolysis capacity across 41 projects, but only 1.2 GW has reached final investment decision (FID)."
+AR-NA-0420,Morocco projects,14.0,count,2026.0,False,"Morocco leads by number of projects (14), Egypt by capacity reaching FID (0.7 GW), and Mauritania by the largest single announced project (10 GW, fictional 'Aftout Sun-H2')."
+AR-NA-0420,Egypt capacity reaching FID,0.7,GW,2026.0,False,"Morocco leads by number of projects (14), Egypt by capacity reaching FID (0.7 GW), and Mauritania by the largest single announced project (10 GW, fictional 'Aftout Sun-H2')."
+AR-NA-0420,largest single announced project capacity,10.0,GW,2026.0,False,"Morocco leads by number of projects (14), Egypt by capacity reaching FID (0.7 GW), and Mauritania by the largest single announced project (10 GW, fictional 'Aftout Sun-H2')."
+AR-ME-0471,fintech funding,612.0,USD m,2026.0,False,"MENA fintech startups raised USD 612 million across 74 deals in Q3 2026, up 19% quarter on quarter."
+AR-ME-0471,deals,74.0,count,2026.0,False,"MENA fintech startups raised USD 612 million across 74 deals in Q3 2026, up 19% quarter on quarter."
+AR-ME-0471,quarter on quarter funding growth,19.0,%,2026.0,False,"MENA fintech startups raised USD 612 million across 74 deals in Q3 2026, up 19% quarter on quarter."
+AR-ME-0471,Saudi Arabia funding share,46.0,%,2026.0,False,"Saudi Arabia captured 46% of funding, the UAE 31%, Egypt 12%, Morocco 4% and others 7%."
+AR-ME-0471,UAE funding share,31.0,%,2026.0,False,"Saudi Arabia captured 46% of funding, the UAE 31%, Egypt 12%, Morocco 4% and others 7%."
